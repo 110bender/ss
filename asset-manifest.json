@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/110bender/ss.git/static/css/main.22dec186.chunk.css",
+    "main.js": "/110bender/ss.git/static/js/main.bb70b417.chunk.js",
+    "main.js.map": "/110bender/ss.git/static/js/main.bb70b417.chunk.js.map",
+    "runtime-main.js": "/110bender/ss.git/static/js/runtime-main.eeb07769.js",
+    "runtime-main.js.map": "/110bender/ss.git/static/js/runtime-main.eeb07769.js.map",
+    "static/js/2.8e9a0152.chunk.js": "/110bender/ss.git/static/js/2.8e9a0152.chunk.js",
+    "static/js/2.8e9a0152.chunk.js.map": "/110bender/ss.git/static/js/2.8e9a0152.chunk.js.map",
+    "index.html": "/110bender/ss.git/index.html",
+    "precache-manifest.81bbeab35051003e403324a41eb3bff1.js": "/110bender/ss.git/precache-manifest.81bbeab35051003e403324a41eb3bff1.js",
+    "service-worker.js": "/110bender/ss.git/service-worker.js",
+    "static/css/main.22dec186.chunk.css.map": "/110bender/ss.git/static/css/main.22dec186.chunk.css.map",
+    "static/js/2.8e9a0152.chunk.js.LICENSE.txt": "/110bender/ss.git/static/js/2.8e9a0152.chunk.js.LICENSE.txt",
+    "static/media/SSlogo.svg": "/110bender/ss.git/static/media/SSlogo.dfaea468.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeb07769.js",
+    "static/js/2.8e9a0152.chunk.js",
+    "static/css/main.22dec186.chunk.css",
+    "static/js/main.bb70b417.chunk.js"
+  ]
+}
