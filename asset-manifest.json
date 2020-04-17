@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/110bender/ss.git/static/css/main.22dec186.chunk.css",
-    "main.js": "/110bender/ss.git/static/js/main.bb70b417.chunk.js",
-    "main.js.map": "/110bender/ss.git/static/js/main.bb70b417.chunk.js.map",
-    "runtime-main.js": "/110bender/ss.git/static/js/runtime-main.eeb07769.js",
-    "runtime-main.js.map": "/110bender/ss.git/static/js/runtime-main.eeb07769.js.map",
-    "static/js/2.8e9a0152.chunk.js": "/110bender/ss.git/static/js/2.8e9a0152.chunk.js",
-    "static/js/2.8e9a0152.chunk.js.map": "/110bender/ss.git/static/js/2.8e9a0152.chunk.js.map",
-    "index.html": "/110bender/ss.git/index.html",
-    "precache-manifest.81bbeab35051003e403324a41eb3bff1.js": "/110bender/ss.git/precache-manifest.81bbeab35051003e403324a41eb3bff1.js",
-    "service-worker.js": "/110bender/ss.git/service-worker.js",
-    "static/css/main.22dec186.chunk.css.map": "/110bender/ss.git/static/css/main.22dec186.chunk.css.map",
-    "static/js/2.8e9a0152.chunk.js.LICENSE.txt": "/110bender/ss.git/static/js/2.8e9a0152.chunk.js.LICENSE.txt",
-    "static/media/SSlogo.svg": "/110bender/ss.git/static/media/SSlogo.dfaea468.svg"
+    "main.css": "/home/static/css/main.22dec186.chunk.css",
+    "main.js": "/home/static/js/main.50521391.chunk.js",
+    "main.js.map": "/home/static/js/main.50521391.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.5770e6b4.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.5770e6b4.js.map",
+    "static/js/2.8e9a0152.chunk.js": "/home/static/js/2.8e9a0152.chunk.js",
+    "static/js/2.8e9a0152.chunk.js.map": "/home/static/js/2.8e9a0152.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.d7be0ca618206ebdcb28a244753365ad.js": "/home/precache-manifest.d7be0ca618206ebdcb28a244753365ad.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.22dec186.chunk.css.map": "/home/static/css/main.22dec186.chunk.css.map",
+    "static/js/2.8e9a0152.chunk.js.LICENSE.txt": "/home/static/js/2.8e9a0152.chunk.js.LICENSE.txt",
+    "static/media/SSlogo.svg": "/home/static/media/SSlogo.dfaea468.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eeb07769.js",
+    "static/js/runtime-main.5770e6b4.js",
     "static/js/2.8e9a0152.chunk.js",
     "static/css/main.22dec186.chunk.css",
-    "static/js/main.bb70b417.chunk.js"
+    "static/js/main.50521391.chunk.js"
   ]
 }
